@@ -3,12 +3,12 @@ layout: default
 ---
 
 #### Candidates
-![Lucas Ramirez](img/lucas.jpg | width=100)
-![Alison Hicks](img/alison.jpg | width=100)
-![Ellen Kamei](img/ellen.jpg | width=100)
-![Pat Showalter](img/pat.jpg | width=100)
-![Leonard M. “Lenny” Siegel](img/lenny.jpg | width=100)
-![John Inks](img/inks.jpg | width=100)
+![Lucas Ramirez](img/lucas.jpg?s=100)
+![Alison Hicks](img/alison.jpg?s=100)
+![Ellen Kamei](img/ellen.jpg?s=100)
+![Pat Showalter](img/pat.jpg?s=100)
+![Leonard M. “Lenny” Siegel](img/lenny.jpg?s=100)
+![John Inks](img/inks.jpg?s=100)
 
 * * *
 
